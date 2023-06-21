@@ -18,7 +18,7 @@ int bit_operations(int num, int oper_type) {
             printf("Error: Invalid operation type.\n");
             break;
     }
-   return num;
+	return num;
 }
 
 int main() {
